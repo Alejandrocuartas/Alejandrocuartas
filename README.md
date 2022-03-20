@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alejandrocuartas
 - 👀 I’m interested in javascript, web development and teaching. i have some personal apps made with React, Nodejs, Express and MongoDB.
-- 🌱 currently i am a Platzi Master student and i'm working on the backend in my squad.
+- 🌱 currently i am a Platzi Master student and i'm working on the backend in my squad. There we are using Fastify and MySQL.
 - 📫 cuartasmarin734@gmail.com
 
 <!---
