@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Alejandrocuartas
-- 👀 I’m interested in javascript, web development and teaching. i have some personal apps made with React, Nodejs, Express and MongoDB.
-- 🌱 currently i am a Platzi Master student and i'm working on the backend in my squad. There we are using Fastify and MySQL. I also know to build MERN stack apps.
-- 💻 Two of my apps:  
+- 👀 I am a Fullstack developer with experience building apps in Javascript, Node.js React.js, Webpack, Git, Express.js, Fastify.js, MySQL and MongoDB.
+- 💻 Some of my apps:  
+      https://scribehow.com/shared/Orders_system_workflow__Td0s5iSpQ1aXz3rv7u5X3A
+      https://github.com/Alejandrocuartas/chiper-front
       https://readingme-alejo.netlify.app/  
       https://post-something-ale31jo.netlify.app/  
 - 📫 cuartasmarin734@gmail.com
