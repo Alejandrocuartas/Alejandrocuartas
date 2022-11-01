@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alejandrocuartas
-- 👀 I am a Fullstack developer with experience building apps in Javascript, Typescript, Node.js, React.js, Webpack, Git, Express.js, Fastify.js, MySQL and MongoDB.
+- 👀 I am a Fullstack developer with experience building apps in Javascript, Typescript, Node.js, Socket.io, GraphQL, Jest, React.js, Git, Express.js, Fastify.js, Webpack, MySQL and MongoDB.
 - 💻 Some of my apps:  
       https://chatme-ale31jo.netlify.app/  
       https://scribehow.com/shared/Orders_system_workflow__Td0s5iSpQ1aXz3rv7u5X3A  
