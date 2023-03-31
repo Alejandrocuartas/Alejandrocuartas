@@ -5,7 +5,7 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
- I am a Fullstack developer with experience building apps in Javascript, Typescript, Node.js, Golang, Socket.io, WebSockets, GraphQL, Jest, React.js, Git, Express.js, Fastify.js, Webpack, MySQL, MongoDB and PostgreSQL.
+ I am a Fullstack developer with experience building apps using Javascript, Typescript, Node.js, Golang, Socket.io, WebSockets, GraphQL, Jest, React.js, Git, Express.js, Fastify.js, Webpack, MySQL, MongoDB and PostgreSQL.
 
 📫 How to reach me: &nbsp; [![Gmail Badge](https://img.shields.io/badge/-cuartasmarin734@gmail.com-white?style=flat&logo=Gmail&logoColor=red)](https://www.linkedin.com/in/cuartas)
 
