@@ -5,7 +5,7 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-Full stack, backend developer with strong experience developing apps with technologies such as Node.js, Golang, AWS, React.js, Javascript, Typescript, Webpack, Git, Express.js, Fastify.js, GraphQL, Socket.io, WebSockets, unit and integration testing, Jest, MySQL, PostgreSQL and MongoDB.
+Full stack, backend developer with strong experience developing apps with technologies such as Node.js, Golang, AWS, Python, React.js, Javascript, Typescript, Webpack, Git, Express.js, Fastify.js, GraphQL, Socket.io, WebSockets, unit and integration testing, Jest, MySQL, PostgreSQL and MongoDB.
 
 In my experiences i have proven to be proactive, teamwork oriented and skilled to talk to users and translate their needs into software.
 
@@ -27,10 +27,11 @@ I'm constantly learning new technologies and improving my skills.
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
- <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Golang" alt="Golang" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Golang" alt="Golang" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="60" height="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/>&nbsp;
