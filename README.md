@@ -21,6 +21,7 @@ I'm constantly learning new technologies and improving my skills.
 -  [Geophoto](https://geophoto.netlify.app/)
 -  [Technical test](https://github.com/Alejandrocuartas/chiper-front)
 -  [Posting app](https://readingme-alejo.netlify.app/)
+-  [LinkedIn CV Generator](https://github.com/Alejandrocuartas/cv-chrome-ext)
 
 ---
 
