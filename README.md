@@ -22,6 +22,7 @@ I'm constantly learning new technologies and improving my skills.
 -  [Technical test](https://github.com/Alejandrocuartas/chiper-front)
 -  [Posting app](https://readingme-alejo.netlify.app/)
 -  [LinkedIn CV Generator](https://github.com/Alejandrocuartas/cv-chrome-ext)
+-  [Notes App](https://github.com/Alejandrocuartas/notes-app)
 
 ---
 
