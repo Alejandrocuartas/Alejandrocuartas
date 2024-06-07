@@ -5,7 +5,7 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-Full stack, backend developer with strong experience developing apps with technologies such as Node.js, Golang, AWS, Python, React.js, Javascript, Typescript, Webpack, Git, Express.js, Fastify.js, GraphQL, Socket.io, WebSockets, unit and integration testing, Jest, MySQL, PostgreSQL and MongoDB.
+Full stack, backend developer with strong experience developing apps with technologies such as Node.js, Golang, AWS, Python, React.js, Javascript, Typescript, Webpack, Git, Nest.js, Express.js, Fastify.js, GraphQL, Socket.io, WebSockets, unit and integration testing, Jest, MySQL, PostgreSQL and MongoDB.
 
 In my experiences i have proven to be proactive, teamwork oriented and skilled to talk to users and translate their needs into software.
 
